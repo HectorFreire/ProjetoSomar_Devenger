@@ -2,6 +2,14 @@ namespace ProjetoSomar_Devenger
 {
     public partial class Form1 : Form
     {
+        // Olá Richard!! Aqui vais alguns detalhes da aplicação:
+        // Decidir usar array pois garante que o número selecionado será o número removido. Atraves dos indices!
+        // Adicionei alguns métodos validadores para evitar erro:
+        // -- verificar se o input do campo é número, se for texto não aceita
+        // -- se há números para a soma
+        // -- se tem algum número selecionado para ser removido
+        // Além de adicionar um botão onde remove todos os numeros do array e um contador de números
+        // Intanciei e adicionei a classe "GerenciarNumeros" para que ficasse uma POO 
 
         private GerenciarNumeros gerenciador = new GerenciarNumeros(); // Instância da classe para manipular
         public Form1()
