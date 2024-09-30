@@ -1,0 +1,16 @@
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\bin\Debug\net8.0-windows\ProjetoSomar_Devenger.exe
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\bin\Debug\net8.0-windows\ProjetoSomar_Devenger.deps.json
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\bin\Debug\net8.0-windows\ProjetoSomar_Devenger.runtimeconfig.json
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\bin\Debug\net8.0-windows\ProjetoSomar_Devenger.dll
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\bin\Debug\net8.0-windows\ProjetoSomar_Devenger.pdb
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.Form1.resources
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.csproj.GenerateResource.cache
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.AssemblyInfoInputs.cache
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.AssemblyInfo.cs
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.csproj.CoreCompileInputs.cache
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.dll
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\refint\ProjetoSomar_Devenger.dll
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.pdb
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.genruntimeconfig.cache
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ref\ProjetoSomar_Devenger.dll
