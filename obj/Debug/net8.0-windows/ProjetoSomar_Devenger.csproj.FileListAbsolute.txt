@@ -14,3 +14,4 @@ C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\refint\Pro
 C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.pdb
 C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.genruntimeconfig.cache
 C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ref\ProjetoSomar_Devenger.dll
+C:\Users\Tinho\Desktop\ProjetoSomar_Devenger\obj\Debug\net8.0-windows\ProjetoSomar_Devenger.sourcelink.json

@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProjetoSomar_Devenger
+﻿namespace ProjetoSomar_Devenger
 {
     internal class GerenciarNumeros
     {
-        // array que será manipulado
         private List<int> numeros = new List<int>();
 
         public void AdicionarNumero(int numero)
@@ -16,12 +9,14 @@ namespace ProjetoSomar_Devenger
             numeros.Add(numero);
         }
 
-        public void RemoverNumero(int index)
+        public bool RemoverNumero(int index)
         {
             if (index >= 0 && index < numeros.Count)
             {
                 numeros.RemoveAt(index);
+                return true;
             }
+            return false;
         }
 
         public void LimparNumeros()
@@ -42,6 +37,11 @@ namespace ProjetoSomar_Devenger
         public List<int> ObterNumeros()
         {
             return new List<int>(numeros);
+        }
+
+        public bool TemNumerosParaSomar()
+        {
+            return numeros.Count > 0;
         }
     }
 }

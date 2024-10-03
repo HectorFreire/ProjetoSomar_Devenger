@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoSomar_Devenger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f33f58b884759e50d1d9be690f28693bf51090f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoSomar_Devenger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoSomar_Devenger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
